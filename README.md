@@ -1,0 +1,2 @@
+# npmTest
+Test NPM package
